@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Bem-vindo a page do Roberto Macedo
 
-You can use the [editor on GitHub](https://github.com/robertomacedo/landpage/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Este ambiente será usado para registro da evolulção do estudo da linguagem python. [editor on GitHub](https://github.com/robertomacedo/landpage/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) os cóigos podem ser verificados no Github.
 
 ### Markdown
 
